@@ -1,0 +1,113 @@
+allg_daten,bearb,Li Ning
+allg_daten,abt,ENPPS
+allg_daten,kom_nr,1510A246
+allg_daten,kennwort,Ordos HN
+allg_daten,bauteil_nr,E3116
+allg_daten,stukon_nr,N03
+allg_daten,znr,
+allg_daten,doknr,
+allg_daten,ausg,
+allg_daten,datum,2019-02-28
+allg_daten,bemerkung,
+_
+berechnungsgrundlagen,zylkug,1
+berechnungsgrundlagen,stukon,1
+berechnungsgrundlagen,bcode,2
+berechnungsgrundlagen,bewert,3
+berechnungsgrundlagen,spabel,1
+berechnungsgrundlagen,nozz_design,0
+berechnungsgrundlagen,festzul,2
+berechnungsgrundlagen,kn,      1.00
+berechnungsgrundlagen,kb,      1.00
+berechnungsgrundlagen,pd,60
+berechnungsgrundlagen,tb,      60.0
+_
+mantel_boden,mantwstz,
+mantel_boden,mantwstk,
+mantel_boden,Da ,410
+mantel_boden,Lm ,2816
+mantel_boden,sez,30
+mantel_boden,c1z,0
+mantel_boden,c2z,0
+mantel_boden,bodform,None
+mantel_boden,Rk,None
+mantel_boden,sek,None
+mantel_boden,c1k,None
+mantel_boden,c2k,None
+mantel_boden,Kz,125
+mantel_boden,Sz,      1.50
+mantel_boden,Rmz,       0.0
+mantel_boden,SZz,      0.00
+mantel_boden,sigzultz,78.8
+mantel_boden,Ez,68800
+mantel_boden,ERTz,70000
+mantel_boden,Kk,None
+mantel_boden,Sk,      1.50
+mantel_boden,Rmk,       0.0
+mantel_boden,SZk,      0.00
+mantel_boden,sigzultk,None
+mantel_boden,Ek,   68800.0
+mantel_boden,ERTk,   70000.0
+_
+stutzen_konsole,stutzart,1
+stutzen_konsole,stutzwst,
+stutzen_konsole,konswst,EN485
+stutzen_konsole,Ass,1408
+stutzen_konsole,Ask,    1349.0
+stutzen_konsole,da,324
+stutzen_konsole,ses,25
+stutzen_konsole,c1s,2
+stutzen_konsole,c2s,0
+stutzen_konsole,Ks,       0.0
+stutzen_konsole,Ss,      1.50
+stutzen_konsole,Rms,       0.0
+stutzen_konsole,SZs,      0.00
+stutzen_konsole,sigzults,73.5
+stutzen_konsole,daa,       0.0
+stutzen_konsole,Bko,       0.0
+stutzen_konsole,Hko,       0.0
+_
+verst_scheibe,vscheibe,None
+verst_scheibe,nachw_scheibenrand,None
+verst_scheibe,vschwerk,Chinese-5083-O
+verst_scheibe,bv,None
+verst_scheibe,hv,None
+verst_scheibe,c1v,None
+verst_scheibe,Kv,       0.0
+verst_scheibe,Sv,      1.50
+verst_scheibe,Rmv,       0.0
+verst_scheibe,SZv,      0.00
+verst_scheibe,sigzultv,None
+_
+verst_inpreinf,inp_reinf,0
+verst_scheibe,lg_in,      95.0
+verst_scheibe,lsa_in,      56.0
+verst_scheibe,lsi_in,      25.0
+_
+belastung,FR,       0.0
+belastung,FL,       0.0
+belastung,FU,       0.0
+belastung,MT,       0.0
+belastung,ML,       0.0
+belastung,MU,       0.0
+
+belastung,FR,1181.0
+belastung,FL,2262.00048828125
+belastung,FU,10633.0
+belastung,MT,-13843.0
+belastung,ML,-1087.0
+belastung,MU,-8359.0
+
+belastung,FR,1346.0
+belastung,FL,2325.00048828125
+belastung,FU,10709.0
+belastung,MT,-13065.0
+belastung,ML,-1087.9998779296875
+belastung,MU,-10252.0
+
+belastung,FR,-1386.0
+belastung,FL,2358.00048828125
+belastung,FU,10157.0
+belastung,MT,-8957.0
+belastung,ML,-1746.9998779296875
+belastung,MU,-6755.0
